@@ -1,2 +1,2 @@
 # computer_vision_workpieces
-Use of computer vision to inspect automatically machined workpieces
+Chapter 2 of book “Computational Intelligence based Solutions for Vision Systems”
